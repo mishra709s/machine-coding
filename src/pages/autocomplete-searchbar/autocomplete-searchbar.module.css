@@ -1,0 +1,28 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input {
+  width: 500px;
+  padding: 10px;
+}
+.resultContainer {
+  border: 1px solid black;
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+  max-height: 500px;
+  overflow-y: scroll;
+}
+
+.results {
+  display: block;
+  max-width: 500px;
+  text-align: left;
+  padding: 5px;
+}
+
+.results:hover {
+  background-color: aquamarine;
+}
